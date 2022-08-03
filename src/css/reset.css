@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /*Pelo que entendi, essa propriedade faça com que as margens e paddings nao estejam incluidos no calculo do tamanho do elemento*/
+}
+
+ul {
+    list-style: none;
+}
